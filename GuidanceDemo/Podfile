@@ -1,0 +1,11 @@
+
+
+use_frameworks!
+
+def pods
+pod 'Aspects'
+end
+
+target 'GuidanceDemo' do
+    pods
+end
