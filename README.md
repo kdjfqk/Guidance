@@ -49,7 +49,7 @@ func loadGuids()->[Guid]
 * Guidance使用了Aspects第三方工具，所以需要将Aspects引入到工程，引入方法见[Aspects](https://github.com/steipete/Aspects)
 ### 添加plist文件并填写配置信息
 plist格式如下所示：
-![Alt text](./QQ20170320-152237.png)
+![Alt text](Resource/Guid.png)
 * **ViewController **：页面控制器类名称
 * **GuidanceImage**：要显示的引导图图片名称
 * **IsLongPage**：是否是长引导图，若引导图超出屏幕高度需要上下滑动，则需要设置为true
